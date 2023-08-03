@@ -1,0 +1,454 @@
+{
+    "employee": [
+        {
+            "id": "string",
+            "lastName": "string",
+            "firstName": "string",
+            "middleInitial": "string",
+            "person": {
+                "ethnicCode": "string",
+                "birthDate": "string",
+                "driverLicenseId": "string",
+                "cobraSSN": "string",
+                "employerIds": [
+                    "string"
+                ],
+                "cobraOnly": true,
+                "geoCode": "string",
+                "maritalStatus": "string",
+                "marriedDate": "string",
+                "smoker": "string",
+                "peoStartDate": "string",
+                "handicapped": "string",
+                "blind": "string",
+                "veteran": "string",
+                "vietnamVet": "string",
+                "disabledVet": "string",
+                "hrpCitizenshipCountry": "string",
+                "deceased": true,
+                "gender": "string",
+                "taxZipCode": "string",
+                "highlyCompensated": true,
+                "keyEmployee": true,
+                "overrideGeoCode": "string",
+                "overrideGeoEndDate": "string",
+                "nickname": "string",
+                "deceasedDate": "string",
+                "driverState": "string",
+                "driverLicenseExpireDate": "string",
+                "driverLicenseClass": "string",
+                "ohioFormC112": true,
+                "unincorporatedResidence": true,
+                "w2AddressLine1": "string",
+                "w2AddressLine2": "string",
+                "w2City": "string",
+                "w2State": "string",
+                "w2PostalCode": "string",
+                "w2ElecForm": true,
+                "w2ElecFormDate": "string",
+                "legacyEmployeeId": "string",
+                "hispanic": true,
+                "agricultureWorker": true,
+                "otherProtectedVet": "string",
+                "activeDutyBadgeVet": "string",
+                "recentlySeparatedVet": "string",
+                "serviceMedalVet": "string",
+                "preferredLanguage": "string",
+                "emergencyContact": [
+                    {
+                        "contactName": "string",
+                        "contactInfo": "string",
+                        "contactType": "string",
+                        "contactRelationship": "string"
+                    }
+                ],
+                "userId": "string",
+                "autoPolicies": [
+                    {
+                        "autoInsurancePolicyId": "string",
+                        "autoInsuranceCarrierName": "string",
+                        "autoInsuranceHolderName": "string",
+                        "autoInsurancePolicyStartDate": "string",
+                        "autoInsurancePolicyExpDate": "string"
+                    }
+                ],
+                "vehicleDetails": [
+                    {
+                        "vehicleMake": "string",
+                        "vehicleModel": "string",
+                        "vehicleYear": "string",
+                        "vehicleAddDate": "string",
+                        "vehicleRemoveDate": "string",
+                        "vehicleRegNo": "string"
+                    }
+                ],
+                "personChecksum": "string"
+            },
+            "contactInformation": {
+                "addressLine1": "string",
+                "addressLine2": "string",
+                "city": "string",
+                "state": "string",
+                "zipcode": "string",
+                "zipSuffix": "string",
+                "county": "string",
+                "schoolDistrict": "string",
+                "homePhone": "string",
+                "mobilePhone": "string",
+                "emailAddress": "string"
+            },
+            "client": {
+                "employeeStatus": "string",
+                "statusClass": "string",
+                "statusDate": "string",
+                "employeeType": "string",
+                "typeClass": "string",
+                "typeDate": "string",
+                "transferInfo": [
+                    {
+                        "transferStatus": "string",
+                        "transferEmployeeId": "string",
+                        "transferClientId": "string",
+                        "transferDate": "string"
+                    }
+                ],
+                "property": [
+                    {
+                        "propertyCode": "string",
+                        "propertyIssueDate": "string",
+                        "propertySerialNumber": "string",
+                        "propertyValue": "string",
+                        "propertyReturnDate": "string",
+                        "propertyComment": "string"
+                    }
+                ],
+                "hawaiiMedWaivers": [
+                    {
+                        "medWaiverYear": "string",
+                        "medWaiverReason": "string"
+                    }
+                ],
+                "jobCode": "string",
+                "jobStartDate": "string",
+                "firstHireDate": "string",
+                "lastHireDate": "string",
+                "flsaExempt": true,
+                "cafeteriaPlan": [
+                    {
+                        "planAmt": "string",
+                        "planEffectiveDate": "string"
+                    }
+                ],
+                "seniorityDate": "string",
+                "officer": true,
+                "workCompOfficer": true,
+                "scorpOwner": true,
+                "businessOwner": true,
+                "termReasonCode": "string",
+                "termExplanation": "string",
+                "lastStatusChangeDate": "string",
+                "lastJobChangeDate": "string",
+                "newHireReportDate": "string",
+                "employee1099": true,
+                "clientEmployeeId": "string",
+                "clockNum": "string",
+                "primaryEmailSource": "string",
+                "benefitEmail": "string",
+                "rehireOk": "string",
+                "returnDate": "string",
+                "workPhone": "string",
+                "workPhoneExt": "string",
+                "probationDate": "string",
+                "courtOrderMedical": true,
+                "childSpouseSupport": true,
+                "childSpouseArrears": true,
+                "addressLine1": "string",
+                "addressLine2": "string",
+                "city": "string",
+                "state": "string",
+                "zip": "string",
+                "zipSuffix": "string",
+                "handbookMailDate": "string",
+                "handbookRecvDate": "string",
+                "unionCode": "string",
+                "unionDate": "string",
+                "subCostCenter": "string",
+                "electronicOnboard": true,
+                "electronicOnboardDate": "string",
+                "reportsTo": "string",
+                "onboardInProgress": true,
+                "backgroundTest": true,
+                "backgroundTestDate": "string",
+                "workersCompExempt": true,
+                "genderDesignation": "string",
+                "preferredPronoun": "string",
+                "clientChecksum": "string",
+                "homeLocation": "string",
+                "homeDivision": "string",
+                "homeDepartment": "string",
+                "workShift": "string",
+                "projCostCenter": "string",
+                "workGroupCode": "string",
+                "benefitGroup": "string",
+                "retirementBenefitGroup": "string",
+                "workEmail": "string",
+                "electronic1095C": "string",
+                "manager": "string"
+            },
+            "compensation": {
+                "ssn": "string",
+                "payGroup": "string",
+                "payPeriod": "string",
+                "payPeriodInfo": [
+                    {
+                        "periodCode": "string",
+                        "periodBase": "string"
+                    }
+                ],
+                "defaultHours": "string",
+                "payMethod": "string",
+                "allocationTemplateId": "string",
+                "payAllocation": [
+                    {
+                        "locationCode": "string",
+                        "percent": "string",
+                        "job": "string",
+                        "deptCode": "string",
+                        "project": "string",
+                        "division": "string"
+                    }
+                ],
+                "standardHours": "string",
+                "stateTax": [
+                    {
+                        "stateCode": "string",
+                        "nonResCertFiled": "string",
+                        "filingStatus": "string",
+                        "primaryAllowance": "string",
+                        "secondaryAllowance": "string",
+                        "exemptAmount": "string",
+                        "supplExemptAmount": "string",
+                        "overrideType": "string",
+                        "overrideAmount": "string",
+                        "reduceAddlWithholding": "string",
+                        "fixedWithholding": "string",
+                        "alternateCalc": "string",
+                        "stateW4Filed": "string",
+                        "stateW4Year": "string",
+                        "multipleJobs": false,
+                        "dependents": 0,
+                        "otherIncome": 0,
+                        "deductions": 0,
+                        "nonResCertYear": "string"
+                    }
+                ],
+                "hourlyPay": "string",
+                "salary": "string",
+                "workShift": "string",
+                "paidThruDate": "string",
+                "eicFileStatus": "string",
+                "fedFilingStatus": "string",
+                "fedWithholdAllowance": "string",
+                "fedOverrideType": "string",
+                "fedOverrideAmt": "string",
+                "fedTaxCalc": "string",
+                "fedMultipleJobs": true,
+                "fedDependents": 0,
+                "fedOtherIncome": 0,
+                "fedDeductions": 0,
+                "hourlyPayRate": "string",
+                "hourlyPayPeriod": "string",
+                "deliverCheckHome": true,
+                "autoAcceptTimeSheet": true,
+                "longPayTable": "string",
+                "longBasisDate": "string",
+                "annualPay": "string",
+                "effectiveDate": "string",
+                "localTax": [
+                    {
+                        "authId": "string",
+                        "filingStatus": "string",
+                        "primaryAllowance": "string",
+                        "nonResCert": "string",
+                        "addlWithheld": "string"
+                    }
+                ],
+                "lastChangePct": "string",
+                "lastChangeAmt": "string",
+                "lastPayDate": "string",
+                "quartile": "string",
+                "compaRatio": "string",
+                "benefitsBasePay": "string",
+                "perDiemPay": "string",
+                "taxCreditEmp": true,
+                "autoPayCode": "string",
+                "altPayRate": [
+                    "string"
+                ],
+                "pensionStatus": "string",
+                "profitSharing": "string",
+                "eeImage": [
+                    {
+                        "masterId": "string",
+                        "verifyDateTime": "2019-08-24T14:15:22Z",
+                        "verifyUserId": "string"
+                    }
+                ],
+                "wagePlanCA": true,
+                "perfReviewLastDate": "string",
+                "perfReviewNextDate": "string",
+                "i9imageAudit": [
+                    {
+                        "auditDate": "string",
+                        "auditUser": "string",
+                        "auditId": "string",
+                        "auditStep": "string"
+                    }
+                ],
+                "perfReviewLastRating": "string",
+                "compReviewNextDate": "string",
+                "perfReviewLastTitle": "string",
+                "fedW5Year": "string",
+                "fedW5Filed": true,
+                "fedW4Filed": true,
+                "fedW4Year": "string",
+                "lockIns": [
+                    {
+                        "state": "string",
+                        "stateDate": "string",
+                        "authUser": "string"
+                    }
+                ],
+                "formI9Filed": true,
+                "formI9RenewDate": "string",
+                "notes": "string",
+                "ficaExempt": true,
+                "benefitsPerHour": "string",
+                "perfAgreement": true,
+                "payRate2": "string",
+                "payRate3": "string",
+                "payRate4": "string",
+                "payChangeLastDate": "string",
+                "overrideWorkGeocode": "string",
+                "familyMemberMI": "string",
+                "probationCodeMO": "string",
+                "electronicPayStub": true,
+                "healthInsVT": true,
+                "lastWorkedDate": "string",
+                "irsLockInDate": "string",
+                "nonResAlien": true,
+                "alienRegExpDate": "string",
+                "benefitSalary": "string",
+                "citizenshipStatus": "string",
+                "firstPayPeriodHours": "string",
+                "compensationChecksum": "string",
+                "providerNotifiedOn": "string"
+            },
+            "directDeposit": {
+                "achStatus": "string",
+                "voucherType": "string",
+                "suppressAccountPrint": true,
+                "achVoucher": [
+                    {
+                        "transitNum": "string",
+                        "accountNum": "string",
+                        "accountType": "string",
+                        "method": "string",
+                        "amount": 0,
+                        "limit": 0,
+                        "status": "string",
+                        "bankName": "string",
+                        "voucherTypeOverride": "string"
+                    }
+                ],
+                "directDepositChecksum": "string"
+            },
+            "employeeEvents": {
+                "employeeEvent": [
+                    {
+                        "eventCode": "string",
+                        "effectiveDate": "string",
+                        "description": "string",
+                        "actionDate": "string",
+                        "comment": "string"
+                    }
+                ]
+            },
+            "health": {
+                "allergy": [
+                    "string"
+                ],
+                "condition": [
+                    "string"
+                ],
+                "program": [
+                    "string"
+                ],
+                "height": "string",
+                "weight": "string",
+                "bloodType": "string",
+                "bloodRh": "string",
+                "bloodDonor": true,
+                "donateDateLast": "string",
+                "donateDateNext": "string",
+                "drugTestResult": "string",
+                "drugTestDateLast": "string",
+                "drugTestDateNext": "string",
+                "audioTestResult": "string",
+                "audioTestDateLast": "string",
+                "audioTestDateNext": "string",
+                "physExamResult": "string",
+                "physExamDateLast": "string",
+                "physExamDateNext": "string"
+            },
+            "skillsAndEducation": {
+                "skillChecksum": "string",
+                "skill": [
+                    {
+                        "skillCode": "string",
+                        "competencyLevel": "string",
+                        "certifyDate": "string",
+                        "skillComment": "string",
+                        "renewDate": "string"
+                    }
+                ],
+                "school": [
+                    {
+                        "schoolName": "string",
+                        "schoolYear": "string",
+                        "graduated": true,
+                        "gradYear": "string",
+                        "degreeEarned": "string",
+                        "schoolComment": "string"
+                    }
+                ],
+                "osha10Certified": true
+            },
+            "absenceJournalId": [
+                "string"
+            ],
+            "benefitEnrollmentCompleted": true,
+            "scheduledDeduction": [
+                {
+                    "deductionCode": "string",
+                    "checkStubDescription": "string",
+                    "status": "string",
+                    "amount": 0,
+                    "startDate": "string",
+                    "stopDate": "string",
+                    "cutbackPayeeCode": "string"
+                }
+            ],
+            "newHireQuestions": [
+                {
+                    "questionId": "string",
+                    "answer": "string"
+                }
+            ],
+            "enrollmentInProgress": {
+                "enrollmentInProgress": true,
+                "enrollmentType": "string"
+            }
+        }
+    ]
+}

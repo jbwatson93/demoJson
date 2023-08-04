@@ -1,8 +1,5 @@
 {
-    "HasMoreResults": "True",
-    "ContinuationToken": "3ac2fca9-09f2-49fb-86d7-b1b84ed6ca74",
-    "AdditionalResultsUrl": "/v1/myresources/xyz?continuationTokenId=3ac2fca9-09f2-49fb-86d7-b1b84ed6ca74",
-    "Records": [
+    "records": [
         {
             "Id": "52b68a4a-196c-0000-0000-0007d5268Sa2",
             "EmployeeNumber": 123666,
@@ -15,13 +12,13 @@
             }
         },
         {
-            "Id": "52b68a4a-196c-0000-0000-0007d5268Sa2",
-            "EmployeeNumber": 123666,
-            "FirstName": "Charles",
-            "MiddleName": "Lutwidge",
-            "LastName": "Dodgson",
+            "Id": "52b68a4a-196c-0440-0042-0007d5268Sa2",
+            "EmployeeNumber": 123456,
+            "FirstName": "lowery",
+            "MiddleName": "Lufft",
+            "LastName": "Ddff",
             "Employee": {
-                "Id": "d63759d5-40cc-4ec2-98df-772342f1b974",
+                "Id": "d63759d5-40cc-4ec2-98df-772342f1b984",
                 "Url": "v1/myresources/resource?resourceID=d63759d5-40cc-4ec2-98df-772342f1b974"
             }
         }

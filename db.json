@@ -1,62 +1,29 @@
 {
-    "employee": [
+    "HasMoreResults": "True",
+    "ContinuationToken": "3ac2fca9-09f2-49fb-86d7-b1b84ed6ca74",
+    "AdditionalResultsUrl": "/v1/myresources/xyz?continuationTokenId=3ac2fca9-09f2-49fb-86d7-b1b84ed6ca74",
+    "Records": [
         {
-            "ethnicCode": "",
-            "birthDate": "1982-01-10",
-            "driverLicenseId": "",
-            "cobraSSN": "",
-            "id": "A00024",
-            "lastName": "Andrews",
-            "firstName": "John",
-            "middleInitial": "",
-            "peoStartDate": "2019-03-22",
-            "addressLine1": "507 Clark St",
-            "addressLine2": "",
-            "city": "CHICAGO",
-            "state": "IL",
-            "zipcode": "60616",
-            "zipSuffix": "",
-            "county": "COOK",
-            "schoolDistrict": "",
-            "homePhone": "786-652-1113",
-            "mobilePhone": "786-652-1113",
-            
-            "client": {
-                "id": null,
-                "employeeStatus": "A"
-                
-            },
-            "enrollmentInProgress": null,
-            "userId": "jandrews"
+            "Id": "52b68a4a-196c-0000-0000-0007d5268Sa2",
+            "EmployeeNumber": 123666,
+            "FirstName": "Charles",
+            "MiddleName": "Lutwidge",
+            "LastName": "Dodgson",
+            "Employee": {
+                "Id": "d63759d5-40cc-4ec2-98df-772342f1b974",
+                "Url": "v1/myresources/resource?resourceID=d63759d5-40cc-4ec2-98df-772342f1b974"
+            }
         },
         {
-            "ethnicCode": "",
-            "birthDate": "1982-01-10",
-            "driverLicenseId": "",
-            "cobraSSN": "",
-            "id": "A00024",
-            "lastName": "Scirocco",
-            "firstName": "Volks",
-            "middleInitial": "",
-            "peoStartDate": "2019-03-22",
-            "addressLine1": "230 sw kings bay",
-            "addressLine2": "",
-            "city": "Crystal River",
-            "state": "FL",
-            "zipcode": "60616",
-            "zipSuffix": "",
-            "county": "CITRUS",
-            "schoolDistrict": "",
-            "homePhone": "404-786-4534",
-            "mobilePhone": "786-645-1113",
-            
-            "client": {
-                "id": null,
-                "employeeStatus": "A"
-                
-            },
-            "enrollmentInProgress": null,
-            "userId": "jalepeno"
+            "Id": "52b68a4a-196c-0000-0000-0007d5268Sa2",
+            "EmployeeNumber": 123666,
+            "FirstName": "Charles",
+            "MiddleName": "Lutwidge",
+            "LastName": "Dodgson",
+            "Employee": {
+                "Id": "d63759d5-40cc-4ec2-98df-772342f1b974",
+                "Url": "v1/myresources/resource?resourceID=d63759d5-40cc-4ec2-98df-772342f1b974"
+            }
         }
     ]
 }
